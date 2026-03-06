@@ -1,7 +1,9 @@
 # academic_purposes - unit_tests
+
 ## Tecnologias
--Python
--pytest
+
+- Python
+- pytest
 
 Exercício acadêmico sobre testes unitários em Python utilizando pytest.
 
@@ -30,3 +32,9 @@ Criar o arquivo:
 `test_cart.py`
 
 Os testes devem cobrir todas as funções presentes no módulo `cart.py`.
+
+## Requisitos técnicos
+
+Os testes devem incluir:
+
+'pytest.parametrize'
