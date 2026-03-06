@@ -5,9 +5,9 @@
 - Python
 - pytest
 
-Exercício acadêmico sobre testes unitários em Python utilizando pytest.
-
 ## Contexto
+
+Exercício acadêmico sobre testes unitários em Python utilizando pytest.
 
 Este exercício simula um pequeno módulo de um sistema de e-commerce responsável
 por calcular o total de um carrinho de compras.
